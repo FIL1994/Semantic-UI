@@ -52,7 +52,6 @@
     "better-console": "*",
     "del": "^3.0.0",
     "extend": "^3.0.1",
-    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-chmod": "^2.0.0",
     "gulp-clean-css": "^3.7.0",
@@ -89,6 +88,7 @@
   },
   "devDependencies": {
     "github": "*",
+    "gulp": "^3.9.1",
     "gulp-concat-filenames": "*",
     "gulp-debug": "*",
     "gulp-git": "*",
