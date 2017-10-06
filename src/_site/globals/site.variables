@@ -5,10 +5,13 @@
 @black          : #1b2e42;
 @pageBackground      : #f3f4f9;
 
+@importGoogleFonts : false;
+
+@fontFamily: 'Montserrat', Arial, sans-serif;
+@headerFontStyle: 'Montserrat', Arial, sans-serif;
+@footerFontStyle: 'Montserrat', Arial, sans-serif;
+@headerFont: 'Montserrat', Arial, sans-serif;
+@pageFont: 'Montserrat', Arial, sans-serif;
+
 @secondaryInvertedColor: rgba(248,253,248,.83);
 @secondaryInvertedHoverColor: rgba(248,253,248,1);
-
-@fontFamily: 'Montserrat', sans-serif;
-@headerFontStyle: 'Montserrat', sans-serif;
-@footerFontStyle: 'Montserrat', sans-serif;
-@pageFont: 'Montserrat', sans-serif;
